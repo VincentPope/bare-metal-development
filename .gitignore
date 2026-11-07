@@ -1,0 +1,11 @@
+# Build output
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Local editor settings
+.vscode/
+.idea/
